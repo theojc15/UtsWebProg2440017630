@@ -1,0 +1,76 @@
+.nav-link {
+    color: rgb(22, 142, 128) !important;
+}
+
+.head{
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(22, 142, 128);
+    color: white;
+}
+
+.catalog {
+    width: 60%;
+    margin: auto;
+}
+
+.btn {
+    background-color: lightseagreen;
+    border: none !important;
+}
+
+.title {
+    color: white;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    border-radius: 0.375em;
+    padding: 1.25em;
+    background-color: lightseagreen;
+}
+
+.information {
+    width: 70%;
+    margin: auto;
+}
+
+.publisher-container {
+    width: 70%;
+    background-color: rgb(22, 142, 128);
+    color: white;
+    margin-top: 1.5em;
+}
+
+footer {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    height: 3em;
+}
+
+.publisher-content {
+    font-size: 16px !important;
+}
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.book-img {
+}
+
+.foot{
+    background-color: lightseagreen;
+}
+
+.card-text {
+    font-size: 18px;
+    font-weight: normal;
+}
